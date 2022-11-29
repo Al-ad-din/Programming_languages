@@ -1,0 +1,15 @@
+C:\Users\al-ad\YandexDisk\000=DOCUMENTS\000_03=ОБУЧЕНИЕ\GeekBrains\201-03 Знакомство с языками программирования\С#\PLHW\Lesson_05\obj\Debug\net6.0\Lesson_05.csproj.AssemblyReference.cache
+C:\Users\al-ad\YandexDisk\000=DOCUMENTS\000_03=ОБУЧЕНИЕ\GeekBrains\201-03 Знакомство с языками программирования\С#\PLHW\Lesson_05\obj\Debug\net6.0\Lesson_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al-ad\YandexDisk\000=DOCUMENTS\000_03=ОБУЧЕНИЕ\GeekBrains\201-03 Знакомство с языками программирования\С#\PLHW\Lesson_05\obj\Debug\net6.0\Lesson_05.AssemblyInfoInputs.cache
+C:\Users\al-ad\YandexDisk\000=DOCUMENTS\000_03=ОБУЧЕНИЕ\GeekBrains\201-03 Знакомство с языками программирования\С#\PLHW\Lesson_05\obj\Debug\net6.0\Lesson_05.AssemblyInfo.cs
+C:\Users\al-ad\YandexDisk\000=DOCUMENTS\000_03=ОБУЧЕНИЕ\GeekBrains\201-03 Знакомство с языками программирования\С#\PLHW\Lesson_05\obj\Debug\net6.0\Lesson_05.csproj.CoreCompileInputs.cache
+C:\Users\al-ad\YandexDisk\000=DOCUMENTS\000_03=ОБУЧЕНИЕ\GeekBrains\201-03 Знакомство с языками программирования\С#\PLHW\Lesson_05\bin\Debug\net6.0\Lesson_05.exe
+C:\Users\al-ad\YandexDisk\000=DOCUMENTS\000_03=ОБУЧЕНИЕ\GeekBrains\201-03 Знакомство с языками программирования\С#\PLHW\Lesson_05\bin\Debug\net6.0\Lesson_05.deps.json
+C:\Users\al-ad\YandexDisk\000=DOCUMENTS\000_03=ОБУЧЕНИЕ\GeekBrains\201-03 Знакомство с языками программирования\С#\PLHW\Lesson_05\bin\Debug\net6.0\Lesson_05.runtimeconfig.json
+C:\Users\al-ad\YandexDisk\000=DOCUMENTS\000_03=ОБУЧЕНИЕ\GeekBrains\201-03 Знакомство с языками программирования\С#\PLHW\Lesson_05\bin\Debug\net6.0\Lesson_05.dll
+C:\Users\al-ad\YandexDisk\000=DOCUMENTS\000_03=ОБУЧЕНИЕ\GeekBrains\201-03 Знакомство с языками программирования\С#\PLHW\Lesson_05\bin\Debug\net6.0\Lesson_05.pdb
+C:\Users\al-ad\YandexDisk\000=DOCUMENTS\000_03=ОБУЧЕНИЕ\GeekBrains\201-03 Знакомство с языками программирования\С#\PLHW\Lesson_05\obj\Debug\net6.0\Lesson_05.dll
+C:\Users\al-ad\YandexDisk\000=DOCUMENTS\000_03=ОБУЧЕНИЕ\GeekBrains\201-03 Знакомство с языками программирования\С#\PLHW\Lesson_05\obj\Debug\net6.0\refint\Lesson_05.dll
+C:\Users\al-ad\YandexDisk\000=DOCUMENTS\000_03=ОБУЧЕНИЕ\GeekBrains\201-03 Знакомство с языками программирования\С#\PLHW\Lesson_05\obj\Debug\net6.0\Lesson_05.pdb
+C:\Users\al-ad\YandexDisk\000=DOCUMENTS\000_03=ОБУЧЕНИЕ\GeekBrains\201-03 Знакомство с языками программирования\С#\PLHW\Lesson_05\obj\Debug\net6.0\Lesson_05.genruntimeconfig.cache
+C:\Users\al-ad\YandexDisk\000=DOCUMENTS\000_03=ОБУЧЕНИЕ\GeekBrains\201-03 Знакомство с языками программирования\С#\PLHW\Lesson_05\obj\Debug\net6.0\ref\Lesson_05.dll
